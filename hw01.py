@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import mplfinance as mpf
 import numpy as np
 
+ts.set_token('请替换为你的Token')
 
-ts.set_token('7a330a817fc8482d3c9c04cf5cae101965298c9b904ca484c01bfde8')
 pro = ts.pro_api()
 
 # ========== 1. 获取数据（分两次获取，然后合并） ==========
