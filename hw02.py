@@ -5,7 +5,7 @@ import mplfinance as mpf
 import numpy as np
 
 # 设置你的Token
-ts.set_token('7a330a817fc8482d3c9c04cf5cae101965298c9b904ca484c01bfde8')
+ts.set_token('请替换为你的Token')
 pro = ts.pro_api()
 
 # ========== 1. 获取数据（孚日股份 002083.SZ） ==========
